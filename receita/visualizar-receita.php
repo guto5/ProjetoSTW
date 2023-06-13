@@ -50,4 +50,5 @@ if ($res && $res->num_rows > 0) {
 } else {
     echo "<p>Receita não encontrada.</p>";
 }
+
 ?>
