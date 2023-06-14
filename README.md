@@ -1,6 +1,3 @@
 # ProjetoSTW
 
-O início do processo de CRUD em PHP foi desafiador, tendo em vista que ainda estou desenvolvendo minhas habilidade em back-end, porém através de pesquisa e busca de conhecimento online consegui encontrar soluções para isso.
-No processo do desenvolvimento de todas etapas, a edição das receitas foi a parte mais desafiadora principalmente pela construção da relação entre Receitas e Ingredientes.
-Nesse processo desenvolvi mais uma tabela relacional entre os dois em razão da relação N-N.
-SQL: Desenvolver o banco de dados foi fácil, tendo em vista que ja tenho algum conhecimento através das aulas na faculdade e cursos.
+A estrutura e o desenvolvimento do CRUD em PHP foram desafiadores no início, considerando que estou ainda em processo de aprimoramento das minhas habilidades em back-end. No entanto, consegui superar esses desafios por meio de pesquisas e busca de conhecimento online, o que me permitiu encontrar soluções adequadas. Durante o desenvolvimento de todas as etapas, a parte mais desafiadora foi a implementação da funcionalidade de edição das receitas, especialmente devido à construção da relação entre Receitas e Ingredientes. Para lidar com essa relação muitos-para-muitos, foi necessário criar uma tabela relacional adicional entre os dois. No que diz respeito ao SQL, a criação do banco de dados foi relativamente fácil, já que possuo algum conhecimento adquirido em aulas na faculdade e em cursos.
